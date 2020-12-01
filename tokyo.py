@@ -66,21 +66,6 @@ TELEGRAM:CHANNEL//@kurdish_cracker0
 ===============$$$$$$$$$$================
 """
 
-def tik():
-    titik = ['.   ','..  ','... ']
-    for o in titik:
-        print("\r\033[1;96m[●] \x1b[1;93mLogging In \x1b[1;97m"+o),;sys.stdout.flush();time.sleep(1)
-
-
-back = 0
-berhasil = []
-cekpoint = []
-oks = []
-id = []
-listgrup = []
-vulnot = "\033[31mEeror"
-vuln = "\033[32mEeror"
-
 os.system("clear")
 print "࿇ ══━━━━✥ⓌⒺⓁⒸⓄⓂ︎Ⓔ✥━━━━══ ࿇"
 print "FOR BEAST TOOL CRACKING FACEBOOK"
