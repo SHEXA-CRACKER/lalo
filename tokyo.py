@@ -503,7 +503,7 @@ def pilih_super():
     print '[✓]....'
     print "[+)∞(+] \033[1;32;40mVery.GOOD\033[1;36;40m/\033[1;31;40msorry.CHECKPOINT \033[1;36;40m: \033[1;32;40m"+str(len(oks))+"\033[1;36;40m/\033[1;31;40m"+str(len(cekpoint))
     print '\033[1;34;40m[+] ✓∅✓✓✓✓✓ : save/cp.txt'
-    print """Done"""
+    print """------------"""
     raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
     super()
 
